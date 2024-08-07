@@ -1,0 +1,37 @@
+h1{
+    margin:100px;
+}
+.box {
+    height: 375px;
+    width: 283px;
+    margin: auto;
+    border-radius: 10px;
+    background-color: aqua;
+    border: 2px solid red;
+}
+
+
+.name {
+    background-color: rgb(218, 188, 17);
+    Margin: auto;
+    text-align: center;
+    height: 82px;
+    width: 413px;
+}
+button {
+    width: 58px;
+    height: 45px;
+    margin:5px 5px ;
+    border-radius: 3px;
+}
+.pink{
+    background-color: pink;
+}
+input{
+    height: 30px;
+    width: 244px;
+    margin: 10px 10px;
+    border-radius: 2px;
+    border: 2px solid red;
+
+}
